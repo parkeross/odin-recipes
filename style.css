@@ -2,6 +2,6 @@
     font-family: "Book Antiqua",sans-serif;
     background-color: lightblue;
 }
-li {
+ol, ul {
     background-color: lightyellow;
 }
